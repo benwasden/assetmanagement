@@ -19,6 +19,7 @@ C# and no libraries.
 - [Microsoft C# Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 - [VSCode C# Get Started](https://code.visualstudio.com/docs/csharp/get-started)
 - [StackOverflow](https://stackoverflow.com/questions)
+
 StackOverflow was particularly helpful for manipulating CSV files within C# - something I've done in python and JS multiple times but never before in this language.
 
 # Future Work
