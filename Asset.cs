@@ -3,7 +3,7 @@ using System;
 namespace AssetManager
 {
     // Defines an asset object for use in the inventory class
-    public class Asset
+    public struct Asset
     {
         public required string Tag { get; set; }
         public required string Model { get; set; }
