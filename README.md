@@ -6,13 +6,12 @@ This is a simple asset management system meant for IT teams to help manage their
 
 I primarily made this to help get myself familiar with C# again. I've largely been working with JS/TS for the last year so I needed to get back into practice with other languages before moving on to C++ and others. I had also never set up a C# development environment from scratch, so I wanted to understand how to do that.
 
-[Software Demo Video] - Included in submit form
 
 # Development Environment
 
 VSCode
 
-C# and no libraries.
+C#
 
 # Useful Websites
 
